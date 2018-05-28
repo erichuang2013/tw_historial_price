@@ -1,1 +1,1 @@
-This repo contain data from TWSE.
+This repo contain data from Taiwan stock price.
